@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="6.685">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-12-05T04:10:04" time="3.711" tests="2">
+    <testcase classname=" renders signup form correctly" name=" renders signup form correctly" time="0.25">
+    </testcase>
+    <testcase classname=" submits signup form with valid data" name=" submits signup form with valid data" time="0.175">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-12-05T04:10:04" time="3.712" tests="2">
+    <testcase classname=" renders login form correctly" name=" renders login form correctly" time="0.218">
+    </testcase>
+    <testcase classname=" submits login form with valid credentials" name=" submits login form with valid credentials" time="0.182">
+    </testcase>
+  </testsuite>
+</testsuites>
